@@ -4,21 +4,20 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { div } from "framer-motion/client";
 
 const certificates = [
-  "/src/assets/business_intelligence.png",
-  "/src/assets/GIT.png",
-  "/src/assets/NLP.png",
-  "/src/assets/applied_scrum_agile.png",
-  "/src/assets/statisticscertification.jpg",
-  "/src/assets/principlesofgenerativeaicertification.png",
-  "/src/assets/deep-learning-developers.png",
-  "/src/assets/python-programming-fundamentals.png",
-  "/src/assets/generative-models.png",
-  "/src/assets/professional-certificate-of-data-analytics.png",
-  "/src/assets/Excel-Automation.png",
+  "/business_intelligence.png",
+  "/GIT.png",
+  "/NLP.png",
+  "/applied_scrum_agile.png",
+  "/statisticscertification.jpg",
+  "/principlesofgenerativeaicertification.png",
+  "/deep-learning-developers.png",
+  "/python-programming-fundamentals.png",
+  "/generative-models.png",
+  "/professional-certificate-of-data-analytics.png",
+  "/Excel-Automation.png",
 ];
 
-const isMobile = window.innerWidth < 768;
-const itemsToShow = isMobile ? 1 : 3;
+
 
 const Qualifications = () => {
   const [current, setcurrent] = useState(0);
@@ -35,7 +34,7 @@ const Qualifications = () => {
         <img
           loading="lazy"
           className="ml-5 lg:ml-20 mt-20 w-[92%] lg:w-[90%] h-64"
-          src="/src/assets/qualification-cover-image.webp"
+          src="/qualification-cover-image.webp"
           alt="Qualification Cover Image"
         />
         <div className="educational">
@@ -48,7 +47,7 @@ const Qualifications = () => {
             <img
               loading="lazy"
               className="w-32 h-32 object-contain mr-6"
-              src="/src/assets/DPUlogo1.png"
+              src="/DPUlogo1.png"
               alt="Jarurat Care Logo"
             />
             <a
@@ -71,7 +70,7 @@ const Qualifications = () => {
             <img
               loading="lazy"
               className="w-32 h-32 object-contain mr-6"
-              src="/src/assets/OIP.jpg"
+              src="/OIP.jpg"
               alt="jarurat care logo"
             />
             <a
@@ -92,7 +91,7 @@ const Qualifications = () => {
             <img
               loading="lazy"
               className="w-32 h-32 object-contain mr-6"
-              src="/src/assets/JKBOSE-Logo.jpg"
+              src="/JKBOSE-Logo.jpg"
               alt="jarurat care logo"
             />
             <div className="flex flex-col justify-center">

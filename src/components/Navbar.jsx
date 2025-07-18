@@ -1,5 +1,3 @@
-
-import hamburger from "../assets/hamburger.svg";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF } from '@fortawesome/free-brands-svg-icons';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
@@ -13,7 +11,7 @@ const Navbar = ({ toggleSidebar, activesidebar }) => {
         <div className="navbar">
           <img
             className="pl-5 pt-6 cursor-pointer"
-            src={hamburger}
+            src="/hamburger.svg"
             alt="Menu"
             onClick={toggleSidebar}
           />

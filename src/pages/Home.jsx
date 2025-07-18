@@ -13,7 +13,7 @@ const Home = () => {
               <img
                 loading="lazy"
                 className="w-6 lg:w-10 lg:h-14 mt-18"
-                src="/src/assets/developer.png"
+                src="/developer.png"
                 alt="Developer"
               />
             </div>
@@ -38,7 +38,7 @@ const Home = () => {
             <img
               loading="lazy"
               className=" mt-20 w-[1200px] h-[400px] rounded-lg "
-              src="/src/assets/Aryan-bg.png"
+              src="/Aryan-bg.png"
               alt="My Profile Image"
             />
           </div>
@@ -52,12 +52,12 @@ const Home = () => {
               <img
                 loading="lazy"
                 className="w-40 h-14 lg:w-32 lg:h-32 object-contain mr-6 "
-                src="/src/assets/JC_LOGO.svg"
+                src="/JC_LOGO.svg"
                 alt="Jarurat Care Logo"
               />
 
               <a
-                href="/src/assets/Jarurat Care Internship Certificate.pdf"
+                href="/Jarurat Care Internship Certificate.pdf"
                 className="flex flex-col justify-center mt-10 "
               >
                 <span className="lg:text-xl font-bold">
@@ -95,7 +95,7 @@ const Home = () => {
               />
 
               <a
-                href="/src/assets/NullClass-Data-Science-Internship-Certificate.pdf"
+                href="/NullClass-Data-Science-Internship-Certificate.pdf"
                 className="flex flex-col justify-center"
               >
                 <span className="lg:text-xl font-bold mt-10 lg:mt-10">
@@ -146,7 +146,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/python.svg"
+                  src="/python.svg"
                   alt="Python"
                 />
               </a>
@@ -157,7 +157,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/html.svg"
+                  src="/html.svg"
                   alt="HTML"
                 />
               </a>
@@ -168,7 +168,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/css.svg"
+                  src="/css.svg"
                   alt="CSS"
                 />
               </a>
@@ -179,7 +179,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/javascript.svg"
+                  src="/javascript.svg"
                   alt="JavaScript"
                 />
               </a>
@@ -187,7 +187,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/react-logo.svg"
+                  src="/react-logo.svg"
                   alt="React"
                 />
               </a>
@@ -195,7 +195,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-6"
-                  src="/src/assets/tailwindcss-logo.png"
+                  src="/tailwindcss-logo.png"
                   alt="Tailwind CSS"
                 />
               </a>
@@ -203,7 +203,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/nextjs-logo.svg"
+                  src="/nextjs-logo.svg"
                   alt="Next.js"
                 />
               </a>
@@ -211,7 +211,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/nodejs.svg"
+                  src="/nodejs.svg"
                   alt="Node.js"
                 />
               </a>
@@ -222,7 +222,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/mongodb.svg"
+                  src="/mongodb.svg"
                   alt="MongoDB"
                 />
               </a>
@@ -230,7 +230,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/mysql.svg"
+                  src="/mysql.svg"
                   alt="MySQL"
                 />
               </a>
@@ -238,7 +238,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/express.svg"
+                  src="/express.svg"
                   alt="Express"
                 />
               </a>
@@ -246,7 +246,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/github.svg"
+                  src="/github.svg"
                   alt="GitHub"
                 />
               </a>
@@ -254,7 +254,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/docker.svg"
+                  src="/docker.svg"
                   alt="Docker"
                 />
               </a>
@@ -262,7 +262,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/kubernetes.svg"
+                  src="/kubernetes.svg"
                   alt="Kubernetes"
                 />
               </a>
@@ -272,7 +272,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/Microsoft-Power-BI-Symbol.png"
+                  src="/Microsoft-Power-BI-Symbol.png"
                   alt="Power BI"
                 />
               </a>
@@ -283,7 +283,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-12"
-                  src="/src/assets/excel.png"
+                  src="/excel.png"
                   alt="Excel"
                 />
               </a>
@@ -294,7 +294,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-20"
-                  src="/src/assets/machine-learning-removebg-preview.png"
+                  src="/machine-learning-removebg-preview.png"
                   alt="Machine Learning"
                 />
               </a>
@@ -305,7 +305,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-20"
-                  src="/src/assets/deep-learning-removebg-preview.png"
+                  src="/deep-learning-removebg-preview.png"
                   alt="Deep Learning"
                 />
               </a>
@@ -319,7 +319,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-20"
-                  src="/src/assets/data-analytics-removebg.png"
+                  src="/data-analytics-removebg.png"
                   alt="Data Analytics"
                 />
               </a>
@@ -327,7 +327,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-20"
-                  src="/src/assets/fastapi.png"
+                  src="/fastapi.png"
                   alt="FastAPI"
                 />
               </a>
@@ -339,7 +339,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/python.svg"
+                  src="/python.svg"
                   alt="Python"
                 />
               </a>
@@ -350,7 +350,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/html.svg"
+                  src="/html.svg"
                   alt="HTML"
                 />
               </a>
@@ -361,7 +361,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/css.svg"
+                  src="/css.svg"
                   alt="CSS"
                 />
               </a>
@@ -372,7 +372,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/javascript.svg"
+                  src="/javascript.svg"
                   alt="JavaScript"
                 />
               </a>
@@ -382,7 +382,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/react-logo.svg"
+                  src="/react-logo.svg"
                   alt="React"
                 />
               </a>
@@ -390,7 +390,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-4"
-                  src="/src/assets/tailwindcss-logo.png"
+                  src="/tailwindcss-logo.png"
                   alt="Tailwind CSS"
                 />
               </a>
@@ -398,7 +398,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/nextjs-logo.svg"
+                  src="/nextjs-logo.svg"
                   alt="Next.js"
                 />
               </a>
@@ -406,7 +406,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-8"
-                  src="/src/assets/nodejs.svg"
+                  src="/nodejs.svg"
                   alt="Node.js"
                 />
               </a>
@@ -417,7 +417,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-4"
-                  src="/src/assets/mongodb.svg"
+                  src="/mongodb.svg"
                   alt="MongoDB"
                 />
               </a>
@@ -425,7 +425,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-6"
-                  src="/src/assets/mysql.svg"
+                  src="/mysql.svg"
                   alt="MySQL"
                 />
               </a>
@@ -433,7 +433,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-4"
-                  src="/src/assets/express.svg"
+                  src="/express.svg"
                   alt="Express"
                 />
               </a>
@@ -441,7 +441,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/github.svg"
+                  src="/github.svg"
                   alt="GitHub"
                 />
               </a>
@@ -451,7 +451,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-8"
-                  src="/src/assets/docker.svg"
+                  src="/docker.svg"
                   alt="Docker"
                 />
               </a>
@@ -459,7 +459,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/kubernetes.svg"
+                  src="/kubernetes.svg"
                   alt="Kubernetes"
                 />
               </a>
@@ -467,7 +467,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/Microsoft-Power-BI-Symbol.png"
+                  src="/Microsoft-Power-BI-Symbol.png"
                   alt="Power BI"
                 />
               </a>
@@ -478,7 +478,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/excel.png"
+                  src="/excel.png"
                   alt="Excel"
                 />
               </a>
@@ -492,7 +492,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-18"
-                  src="/src/assets/machine-learning-removebg-preview.png"
+                  src="/machine-learning-removebg-preview.png"
                   alt="Machine Learning"
                 />
               </a>
@@ -503,7 +503,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-15"
-                  src="/src/assets/deep-learning-removebg-preview.png"
+                  src="/deep-learning-removebg-preview.png"
                   alt="Deep Learning"
                 />
               </a>
@@ -514,7 +514,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-20"
-                  src="/src/assets/data-analytics-removebg.png"
+                  src="/data-analytics-removebg.png"
                   alt="Data Analytics"
                 />
               </a>
@@ -522,7 +522,7 @@ const Home = () => {
                 <img
                   loading="lazy"
                   className="h-10"
-                  src="/src/assets/fastapi.png"
+                  src="/fastapi.png"
                   alt="FastAPI"
                 />
               </a>

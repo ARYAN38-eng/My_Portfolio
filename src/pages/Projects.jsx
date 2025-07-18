@@ -166,13 +166,13 @@ const Projects = ({ activesidebar }) => {
             className={`group block h-72 ${
               activesidebar ? "lg:w-[45%] lg:ml-19" : "lg:w-[50%] lg:ml-8 2xl:ml-2"
             }  mt-5 border-8 border-gray-800 rounded-2xl hover:scale-110 transition-all duration-500`}
-            href="/src/assets/airlinesroutes_and_fare_dashboard.pdf"
+            href="/airlinesroutes_and_fare_dashboard.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
             <iframe
               className="h-full w-full"
-              src="/src/assets/airlinesroutes_and_fare_dashboard.pdf"
+              src="/airlinesroutes_and_fare_dashboard.pdf"
               title="Power BI Dashboard"
             ></iframe>
 
@@ -198,13 +198,13 @@ const Projects = ({ activesidebar }) => {
             className={`group block h-72 ${
               activesidebar ? "lg:w-[45%] lg:ml-19" : "lg:w-[50%] lg:ml-8 2xl:ml-2"
             } mt-5 border-8 border-gray-800 rounded-2xl hover:scale-110 transition-all duration-500`}
-            href="/src/assets/global_economics_2000_to_2020.pdf"
+            href="/global_economics_2000_to_2020.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
             <iframe
               className="h-full w-full"
-              src="/src/assets/global_economics_2000_to_2020.pdf"
+              src="/global_economics_2000_to_2020.pdf"
               title="Power BI Dashboard"
             ></iframe>
 
@@ -230,13 +230,13 @@ const Projects = ({ activesidebar }) => {
             className={`group block h-72 ${
               activesidebar ? "lg:w-[45%] lg:ml-19" : "lg:w-[50%] lg:ml-8 2xl:ml-2"
             } mt-5 border-8 border-gray-800 rounded-2xl hover:scale-110 transition-all duration-500`}
-            href="/src/assets/OlympicsDashboard.pdf"
+            href="/OlympicsDashboard.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
             <iframe
               className="h-full w-full"
-              src="/src/assets/OlympicsDashboard.pdf"
+              src="/OlympicsDashboard.pdf"
               title="Power BI Dashboard"
             ></iframe>
 
@@ -263,13 +263,13 @@ const Projects = ({ activesidebar }) => {
             className={`group block h-72 ${
               activesidebar ? "lg:w-[45%] lg:ml-19" : "lg:w-[50%] lg:ml-8 2xl:ml-2"
             } mt-5 border-8 border-gray-800 rounded-2xl hover:scale-110 transition-all duration-500`}
-            href="/src/assets/spotify_dashboard.pdf"
+            href="/spotify_dashboard.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
             <iframe
               className="h-full w-full"
-              src="/src/assets/spotify_dashboard.pdf"
+              src="/spotify_dashboard.pdf"
               title="Power BI Dashboard"
             ></iframe>
 
