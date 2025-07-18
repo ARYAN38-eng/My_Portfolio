@@ -34,8 +34,8 @@ const Sidebar = ({ activesidebar,toggleSidebar }) => {
       <aside
         className={`w-[55%] lg:w-[20%] h-[100vh] z-20 lg:z-auto lg:h-auto bg-[#f5f6f7] min-h-screen fixed top-0 left-0   transform ${
           activesidebar
-            ? "translate-x-0"
-            : "-translate-x-full"
+            ? "-translate-x-full md:translate-x-0"
+            : "translate-x-0 md:-translate-x-full"
         } transition-transform duration-400 ease-in`}
       >
         <div className="sidebar">
