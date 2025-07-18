@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-opensans {
+    font-family: 'Open Sans', sans-serif;
+  }
+}
+
+.skill-icon {
+  @apply h-15 w-15 md:h-20 md:w-20 flex justify-center items-center rounded-full bg-gray-100 hover:bg-gray-200 hover:scale-110 transition-transform duration-100;
+}
