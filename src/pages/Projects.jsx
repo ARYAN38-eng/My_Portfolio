@@ -130,7 +130,7 @@ const Projects = ({ activesidebar }) => {
           <h2 className="text-[#3d4449] lg:w-[40%] text-2xl lg:text-2xl 2xl:text-4xl font-semibold">
             Pokemon Dataset (EDA){" "}
           </h2>
-          <div className="description lg:absolute top-15 bg-gray-100 rounded-2xl lg:h-50 p-5 w-full lg:w-[60%] 2xl:2-[50%] hover:scale-105 transition-all duration-500">
+          <div className="description lg:absolute top-15 bg-gray-100 rounded-2xl lg:h-50 p-5 w-full lg:w-[60%] 2xl:w-[50%] hover:scale-105 transition-all duration-500">
             Conducted detailed exploratory data analysis on a Pokémon dataset,
             focusing on numerical attributes like Attack, Defense, and HP.
             Visualizations were used to uncover patterns, correlations, and key
